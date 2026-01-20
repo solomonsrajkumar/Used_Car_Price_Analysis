@@ -310,14 +310,30 @@ This graph complements the previous data as we could see here what are the most 
 
 ## Findings
 
-1. Vehicles manufactured 4 year's ago are the most prefered option for consumers
-2. Keeping an inventory of Ford F150 and Chevrolet Silverado is benefitial for your business as this represents the best prices historically
-3. You business should look for used vehicles with mileage as following:
-    - Ford F150: Low - high
-    - Chevrolet Silverado: Medium to high
-4. A potential transition to hybrid or eletric could come in the future, however there is not significatively impact at this moment based on your data.
-5. The fuel preference over the top vehicles is Gas. And this reflects the type of vehicle. Ford F150 and Chevrolet Silverado are trucks and it is probable the perform better with gas.
-6. The major density of sales are for vehicles with price between $6,000 and $20,000. You can consider vehicles with higher odometer to supply inventory in this price range, using the premise of higher odometer the price is reduced.
+Based on the analysis of 426,000 used car sales records, the following key insights explain what most strongly drives used car prices and consumer preferences:
+
+- Vehicle Age Is the Strongest Price Driver
+    Cars that are approximately 4 years old (model year ~2018) command the highest overall prices. This suggests buyers strongly prefer relatively new vehicles that balance modern     features with depreciation savings.
+
+- Certain Models Consistently Retain Value
+    Ford F‑150 and Chevrolet Silverado clearly outperform other models in total sale price and demand across multiple analyses. These trucks show strong resale value regardless of     mileage category, making them highly reliable inventory choices.
+
+- Mileage Impacts Price, but Demand Remains Strong
+    While higher odometer readings reduce individual vehicle prices, demand remains strong for high‑mileage trucks:
+
+    Ford F‑150: Strong demand across low to high mileage
+
+    Chevrolet Silverado: Strong demand in medium to high mileage
+    This enables dealerships to stock higher‑mileage vehicles while remaining competitive in popular price ranges.
+
+- Gas Vehicles Dominate the Current Market
+    Gas-powered vehicles continue to represent the strongest market value, especially for trucks. Hybrid and electric vehicles show early signs of growth, but they do not yet          materially impact pricing in the current dataset.
+
+- Price Sweet Spot: $6,000 – $20,000
+    The highest concentration of sales occurs in the $6K–$20K range. Vehicles with higher mileage can be strategically used to populate this range while maintaining profitability.
+
+- Key Price‑Influencing Features
+    Feature importance analysis confirms that year, model, odometer, and cylinder count are the most influential variables in determining price, aligning well with real‑world          market behavior.
 
 
 ## Next steps and recommendations
